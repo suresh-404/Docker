@@ -1,6 +1,13 @@
-# Running Your First Docker Container
+# What is Docker?
 
-## Command to run:
+Docker is an open source project for building, shipping, and running programs. It is a command-
+line program, a background process, and a set of remote services that take a logistical approach
+to solving common software problems and simplifying your experience installing, running, publishing,
+and removing software. It accomplishes this by using an operating system technology called containers.
+
+## Running Your First Docker Container
+
+### Command to run:
 
 ```bash
 docker run dockerinaction/hello_world
@@ -15,10 +22,9 @@ docker run dockerinaction/hello_world
 - docker run triggers Docker to start a container.
 - The command sequence installs and runs a program inside a container.
 
-This process is illustrated in figure 1.1 .
+This process is illustrated in below figure 1.1 .
 ![figure 1.1: How docker run works](images/how_docker_run_works.png)
 
-figure 1.1 
 
 ✍️  *Reference: Notes adapted from **Docker in Action***
 
