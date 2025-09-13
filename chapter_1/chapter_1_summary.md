@@ -38,3 +38,5 @@ If you need help with a command, you can always consult:
 ```bash
 docker help
 
+✍️  *Reference: Notes adapted from **Docker in Action***
+

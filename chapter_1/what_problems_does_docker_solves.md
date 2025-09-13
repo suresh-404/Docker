@@ -49,3 +49,5 @@ Docker provides:
 - Security containment of potentially risky software.
 - A more organized and maintainable computing environment.
 
+✍️  *Reference: Notes adapted from **Docker in Action***
+

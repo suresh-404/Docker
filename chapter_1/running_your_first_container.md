@@ -19,3 +19,6 @@ This process is illustrated in figure 1.1 .
 ![figure 1.1: How docker run works](images/how_docker_run_works.png)
 
 figure 1.1 
+
+✍️  *Reference: Notes adapted from **Docker in Action***
+
