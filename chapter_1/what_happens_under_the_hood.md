@@ -1,8 +1,5 @@
-What happens under the hood when we run "docker run" command?
+**What happens under the hood when we run "docker run" command?**
 
-figure 1.1 explains the actions under the hood:
+![figure 1.1: How docker run works](how_docker_run_works.png)
 
-![Figure 1: How docker run works](how_docker_run_works.png)
-
-
-
+figure 1.1 
