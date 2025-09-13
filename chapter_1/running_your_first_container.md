@@ -16,6 +16,6 @@ docker run dockerinaction/hello_world
 - The command sequence installs and runs a program inside a container.
 
 This process is illustrated in figure 1.1 .
-![figure 1.1: How docker run works](how_docker_run_works.png)
+![figure 1.1: How docker run works](images/how_docker_run_works.png)
 
 figure 1.1 
