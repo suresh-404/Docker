@@ -4,6 +4,7 @@
 
 ```bash
 docker run dockerinaction/hello_world
+```
 
 ### What happens under the hood when we run "docker run" command?
 - Docker starts and downloads necessary components.
@@ -14,7 +15,7 @@ docker run dockerinaction/hello_world
 - docker run triggers Docker to start a container.
 - The command sequence installs and runs a program inside a container.
 
-This process is illustrated in figure 1.1.
+This process is illustrated in figure 1.1 .
 ![figure 1.1: How docker run works](how_docker_run_works.png)
 
 figure 1.1 
